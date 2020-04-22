@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
         String sre="asd";
         String str="小明"; 
         String str="小明2"; 
+        String str="123"; 
     }
 }
