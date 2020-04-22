@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         String sre="asd";
         String str="小明"; 
+        String str="小明2"; 
     }
 }
